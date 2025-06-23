@@ -40,14 +40,15 @@ const questions = [
     "correct": 3
   },
   {
-    "question": "The AWR can be used on the ground provided:",
+    "question": "The AWR can be used on the ground provided: The AWR can be used on the ground provided: i. The aircraft is clear of personnel, buildings and vehicles ii. The conical beam is selected iii. Maximum uplift is selected iv. The AWR must never be operated on the ground
+",
     "options": [
       "The aircraft is clear of personnel, buildings and vehicles",
-      "The conical beam is selected",
+      "All correct except iv",
       "Maximum uplift is selected",
-      "The AWR must never be operated on the ground"
+      "i only"
     ],
-    "correct": 0
+    "correct": 1
   },
   {
     "question": "On a colour radar, the greatest turbulence is likely in an area where the targets:",
